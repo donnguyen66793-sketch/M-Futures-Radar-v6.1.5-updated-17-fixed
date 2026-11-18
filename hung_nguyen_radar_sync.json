@@ -1,0 +1,285 @@
+{
+  "app_name": "Hung Nguyen Radar",
+  "app_version": "3.1.0",
+  "exported_at": "2026-11-18T15:13:48",
+  "cfg": {
+    "syms": "ANTUSDT, ",
+    "mode": "Day Trading",
+    "every": "0",
+    "demo": false,
+    "sound": false,
+    "ex": "binance",
+    "plan_cfg": {
+      "ok": {
+        "c": {
+          "on": true,
+          "color": "#00e5ff",
+          "ms": 250,
+          "burst": 6,
+          "static": false
+        },
+        "a": {
+          "on": true,
+          "color": "#00e5ff",
+          "ms": 250,
+          "burst": 6,
+          "static": false
+        }
+      },
+      "bad": {
+        "c": {
+          "on": true,
+          "color": "#ff1744",
+          "ms": 250,
+          "burst": 8,
+          "static": true
+        },
+        "a": {
+          "on": true,
+          "color": "#ff1744",
+          "ms": 250,
+          "burst": 8,
+          "static": true
+        }
+      },
+      "res": {
+        "c": {
+          "on": true,
+          "color": "#ffd400",
+          "ms": 250,
+          "burst": 6,
+          "static": false
+        },
+        "a": {
+          "on": true,
+          "color": "#ffd400",
+          "ms": 250,
+          "burst": 6,
+          "static": false
+        }
+      },
+      "sup": {
+        "c": {
+          "on": true,
+          "color": "#e040fb",
+          "ms": 250,
+          "burst": 6,
+          "static": false
+        },
+        "a": {
+          "on": true,
+          "color": "#e040fb",
+          "ms": 250,
+          "burst": 6,
+          "static": false
+        }
+      }
+    },
+    "tp_fmt": {
+      "on": true,
+      "bold": true,
+      "size": 12,
+      "long": "#00e676",
+      "short": "#ff1744",
+      "blink": false,
+      "ms": 500,
+      "bg": true,
+      "bg_long": "#00e676",
+      "bg_short": "#ff1744",
+      "alpha": 100,
+      "fg_auto": true,
+      "fgb_long": "#000000",
+      "fgb_short": "#ffffff"
+    },
+    "theme": "Hacker",
+    "layout": "Tab trên",
+    "lang": "Tiếng Việt",
+    "log": [
+      "23:56:11 ANTHROPICUSDT → NGHIENG LONG (+3.0) @ 1393.2",
+      "00:05:45 AAPLUSDT → NGHIENG LONG (+3.8) @ 354.55",
+      "00:05:45 CRCLUSDT → NGHIENG LONG (+3.2) @ 68.18",
+      "00:05:45 GOOGLUSDT → NGHIENG LONG (+3.8) @ 293.71",
+      "14:45:42 NVDAUSDT → NGHIENG SHORT (-3.0) @ 161.03",
+      "14:45:42 SOLUSDT → NGHIENG SHORT (-4.8) @ 82.75",
+      "14:45:42 ETHUSDT → NGHIENG SHORT (-4.8) @ 2046.9",
+      "14:45:42 BNBUSDT → NGHIENG SHORT (-4.0) @ 673.86",
+      "14:45:42 BTCUSDC → NGHIENG SHORT (-3.5) @ 73452",
+      "14:45:43 CRCLUSDT → NGHIENG SHORT (-4.2) @ 65.47",
+      "23:03:29 AAPLUSDT → NGHIENG LONG (+3.8) @ 358.75",
+      "23:03:29 BTCUSDT → NGHIENG SHORT (-3.2) @ 71677",
+      "23:03:29 AMDUSDT → NGHIENG LONG (+4.5) @ 584.53",
+      "23:03:29 BZUSDT → NGHIENG LONG (+3.0) @ 91.75",
+      "23:03:29 GOOGLUSDT → NGHIENG LONG (+3.5) @ 297.89",
+      "23:03:29 INITUSDT → NGHIENG SHORT (-3.0) @ 0.12111",
+      "23:03:29 INTCUSDT → NGHIENG LONG (+3.2) @ 62.49",
+      "15:24:59 ETHUSDT → NGHIENG SHORT (-4.0) @ 1935.2",
+      "15:24:59 BTCUSDC → NGHIENG SHORT (-4.5) @ 68680",
+      "15:24:59 CLUSDT → NGHIENG LONG (+3.8) @ 87.82",
+      "15:24:59 CRCLUSDT → NGHIENG SHORT (-3.0) @ 62.8",
+      "15:24:59 ETHUSDC → NGHIENG SHORT (-4.5) @ 1933.6",
+      "15:24:59 IBMUSDT → NGHIENG SHORT (-3.5) @ 244.76",
+      "17:30:30 AAPLUSDT → NGHIENG LONG (+4.0) @ 357.19",
+      "17:30:30 AMZNUSDT → NGHIENG LONG (+5.0) @ 269.55",
+      "17:30:30 ANTHROPICUSDT → NGHIENG SHORT (-3.5) @ 1358.9",
+      "17:30:30 CSOPSKHYNIX2LUSDT → NGHIENG SHORT (-4.0) @ 2.044",
+      "19:26:54 BZUSDT → NGHIENG LONG (+4.5) @ 93.91",
+      "19:26:54 DELLUSDT → NGHIENG LONG (+3.0) @ 374.86",
+      "19:26:54 GOOGLUSDT → NGHIENG LONG (+5.8) @ 302.67",
+      "19:27:07 INITUSDT → NGHIENG SHORT (-3.0) @ 0.11447",
+      "07:27:56 IBMUSDT → NGHIENG SHORT (-3.5) @ 232.42",
+      "07:27:57 NEARUSDT → NGHIENG LONG (+3.0) @ 3.373",
+      "07:27:58 XAUUSDT → NGHIENG SHORT (-4.5) @ 3846.5"
+    ],
+    "fav": [
+      "AAPLUSDT",
+      "AMDUSDT",
+      "AMZNUSDT",
+      "ANTHROPICUSDT",
+      "ANTUSDT",
+      "BTCUSDC",
+      "BTCUSDT",
+      "BZUSDT",
+      "CLUSDT",
+      "CRCLUSDT",
+      "CSOPSKHYNIX2LUSDT",
+      "DELLUSDT",
+      "ETHUSDC",
+      "ETHUSDT",
+      "GOOGLUSDT",
+      "IBMUSDT",
+      "INITUSDT",
+      "INTCUSDT",
+      "KORUUSDT",
+      "MSTRUSDT",
+      "NEARUSDC",
+      "NEARUSDT",
+      "NVDAUSDT",
+      "ORCLUSDT",
+      "QCOMUSDT",
+      "QQQUSDT",
+      "SAMSUNGUSDT",
+      "SKDDUSDT",
+      "SKHYNIXUSDT",
+      "SKHYUSDT",
+      "SNDKUSDT",
+      "SOLUSDT",
+      "SOXLUSDT",
+      "SOXSUSDT",
+      "SPCXUSDT",
+      "SPYUSDT",
+      "TSLAUSDT",
+      "WDCUSDT",
+      "XAGUSDT",
+      "XAUUSDT",
+      "XRPUSDT",
+      "ZHONGJIUSDT"
+    ],
+    "blink": true,
+    "blink_notify": false,
+    "clock12": false,
+    "blink_l": true,
+    "blink_r": true,
+    "blink_c": true,
+    "blink_zones": {
+      "l": {
+        "color": "",
+        "alpha": 73,
+        "ms": 600,
+        "multi": true,
+        "colors": [
+          "#ffb74d",
+          "#ff1744",
+          "#2979ff",
+          "#ffd400",
+          "#00e676",
+          "#b24dff",
+          "#ffffff",
+          "#ffd400"
+        ],
+        "alt": false,
+        "alt_ms": 400,
+        "static": true
+      },
+      "c": {
+        "color": "",
+        "alpha": 100,
+        "ms": 600,
+        "multi": false,
+        "colors": [
+          "#ffb74d",
+          "#ff1744",
+          "#2979ff"
+        ],
+        "alt": false,
+        "alt_ms": 400,
+        "static": false
+      },
+      "r": {
+        "color": "",
+        "alpha": 0,
+        "ms": 600,
+        "multi": true,
+        "colors": [
+          "#ffb74d",
+          "#ff1744",
+          "#2979ff",
+          "#ffd400",
+          "#00e676",
+          "#b24dff",
+          "#ffffff",
+          "#ff1744"
+        ],
+        "alt": false,
+        "alt_ms": 400,
+        "static": false
+      },
+      "a": {
+        "color": "",
+        "alpha": 100,
+        "ms": 600,
+        "multi": false,
+        "colors": [
+          "#ffb74d",
+          "#ff1744",
+          "#2979ff"
+        ],
+        "alt": false,
+        "alt_ms": 400,
+        "static": false
+      }
+    },
+    "vpn": false,
+    "vpn_cache": [],
+    "vpn_custom": []
+  },
+  "test": {
+    "acc": {
+      "cap": 1000.0,
+      "real": 0.0,
+      "ts": 1794948913393.4985
+    },
+    "pos": [],
+    "pend": [],
+    "hist": [],
+    "brk": {},
+    "dr": [
+      {
+        "s": "BTCUSDT",
+        "d": "L",
+        "lv": "10",
+        "m": "100",
+        "e": "",
+        "n": "3",
+        "mu": "1.5",
+        "z": "mu",
+        "U": ""
+      }
+    ],
+    "dsrc": "man",
+    "dcap": "1000"
+  },
+  "news_cache": {
+    "cal": [],
+    "news": []
+  }
+}
